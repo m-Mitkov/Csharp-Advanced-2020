@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.exe
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.deps.json
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.dll
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.0\BasicStackOperations.pdb
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.dll
+C:\Users\Martin Mitkov\source\repos\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.0\BasicStackOperations.pdb

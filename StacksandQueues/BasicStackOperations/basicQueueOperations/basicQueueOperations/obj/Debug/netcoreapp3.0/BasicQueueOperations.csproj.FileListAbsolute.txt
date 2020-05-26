@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.exe
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.deps.json
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.dll
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\bin\Debug\netcoreapp3.0\BasicQueueOperations.pdb
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp3.0\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp3.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp3.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp3.0\BasicQueueOperations.dll
+C:\Users\Martin Mitkov\source\repos\BasicQueueOperations\BasicQueueOperations\obj\Debug\netcoreapp3.0\BasicQueueOperations.pdb

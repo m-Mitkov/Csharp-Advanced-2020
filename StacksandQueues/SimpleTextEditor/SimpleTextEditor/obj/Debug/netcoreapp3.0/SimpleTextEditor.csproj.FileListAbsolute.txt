@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.exe
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.deps.json
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.dll
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.pdb
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.dll
+C:\Users\Martin Mitkov\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.pdb

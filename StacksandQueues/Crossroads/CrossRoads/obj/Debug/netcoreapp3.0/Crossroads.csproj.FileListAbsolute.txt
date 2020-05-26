@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.exe
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.deps.json
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.dll
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\bin\Debug\netcoreapp3.0\Crossroads.pdb
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\obj\Debug\netcoreapp3.0\Crossroads.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\obj\Debug\netcoreapp3.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\obj\Debug\netcoreapp3.0\Crossroads.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\obj\Debug\netcoreapp3.0\Crossroads.dll
+C:\Users\Martin Mitkov\source\repos\CrossRoads\CrossRoads\obj\Debug\netcoreapp3.0\Crossroads.pdb

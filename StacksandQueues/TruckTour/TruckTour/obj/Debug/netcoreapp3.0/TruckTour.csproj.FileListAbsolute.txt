@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.exe
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.deps.json
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.pdb
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Martin Mitkov\source\repos\TruckTour\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.pdb

@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.exe
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.deps.json
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.dll
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\bin\Debug\netcoreapp3.0\FastFood.pdb
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\obj\Debug\netcoreapp3.0\FastFood.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\obj\Debug\netcoreapp3.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\obj\Debug\netcoreapp3.0\FastFood.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\obj\Debug\netcoreapp3.0\FastFood.dll
+C:\Users\Martin Mitkov\source\repos\FastFood\FastFood\obj\Debug\netcoreapp3.0\FastFood.pdb

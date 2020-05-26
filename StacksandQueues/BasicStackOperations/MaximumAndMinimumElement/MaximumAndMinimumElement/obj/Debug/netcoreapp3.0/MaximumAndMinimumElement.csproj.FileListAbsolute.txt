@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.exe
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.deps.json
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.dll
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\bin\Debug\netcoreapp3.0\MaximumAndMinimumElement.pdb
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp3.0\MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp3.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp3.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp3.0\MaximumAndMinimumElement.dll
+C:\Users\Martin Mitkov\source\repos\MaximumAndMinimumElement\MaximumAndMinimumElement\obj\Debug\netcoreapp3.0\MaximumAndMinimumElement.pdb

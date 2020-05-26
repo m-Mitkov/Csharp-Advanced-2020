@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.exe
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.deps.json
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.dll
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\bin\Debug\netcoreapp3.0\songsQueue.pdb
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\obj\Debug\netcoreapp3.0\songsQueue.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\obj\Debug\netcoreapp3.0\songsQueue.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\obj\Debug\netcoreapp3.0\songsQueue.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\obj\Debug\netcoreapp3.0\songsQueue.dll
+C:\Users\Martin Mitkov\source\repos\songsQueue\songsQueue\obj\Debug\netcoreapp3.0\songsQueue.pdb
