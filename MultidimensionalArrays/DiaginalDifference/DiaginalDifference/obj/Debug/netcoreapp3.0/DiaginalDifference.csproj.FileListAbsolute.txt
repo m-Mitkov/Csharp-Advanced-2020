@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.exe
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.deps.json
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.dll
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\bin\Debug\netcoreapp3.0\DiaginalDifference.pdb
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\obj\Debug\netcoreapp3.0\DiaginalDifference.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\obj\Debug\netcoreapp3.0\DiaginalDifference.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\obj\Debug\netcoreapp3.0\DiaginalDifference.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\obj\Debug\netcoreapp3.0\DiaginalDifference.dll
+C:\Users\Martin Mitkov\source\repos\DiaginalDifference\DiaginalDifference\obj\Debug\netcoreapp3.0\DiaginalDifference.pdb

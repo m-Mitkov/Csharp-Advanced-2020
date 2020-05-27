@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.exe
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.deps.json
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.dll
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\bin\Debug\netcoreapp3.0\maximalSum.pdb
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\obj\Debug\netcoreapp3.0\maximalSum.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\obj\Debug\netcoreapp3.0\maximalSum.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\obj\Debug\netcoreapp3.0\maximalSum.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\obj\Debug\netcoreapp3.0\maximalSum.dll
+C:\Users\Martin Mitkov\source\repos\maximalSum\maximalSum\obj\Debug\netcoreapp3.0\maximalSum.pdb
