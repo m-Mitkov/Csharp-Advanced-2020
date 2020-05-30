@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.exe
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.deps.json
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.dll
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\bin\Debug\netcoreapp3.0\snakeMoves.pdb
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\obj\Debug\netcoreapp3.0\snakeMoves.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\obj\Debug\netcoreapp3.0\snakeMoves.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\obj\Debug\netcoreapp3.0\snakeMoves.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\obj\Debug\netcoreapp3.0\snakeMoves.dll
+C:\Users\Martin Mitkov\source\repos\snakeMoves\snakeMoves\obj\Debug\netcoreapp3.0\snakeMoves.pdb

@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.exe
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.deps.json
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.dll
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\bin\Debug\netcoreapp3.0\matrixShiffling.pdb
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\obj\Debug\netcoreapp3.0\matrixShiffling.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\obj\Debug\netcoreapp3.0\matrixShiffling.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\obj\Debug\netcoreapp3.0\matrixShiffling.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\obj\Debug\netcoreapp3.0\matrixShiffling.dll
+C:\Users\Martin Mitkov\source\repos\matrixShiffling\matrixShiffling\obj\Debug\netcoreapp3.0\matrixShiffling.pdb

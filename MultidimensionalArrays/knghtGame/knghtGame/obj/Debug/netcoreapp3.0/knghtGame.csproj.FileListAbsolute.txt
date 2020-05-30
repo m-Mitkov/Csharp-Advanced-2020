@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.exe
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.deps.json
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.dll
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\bin\Debug\netcoreapp3.0\knghtGame.pdb
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\obj\Debug\netcoreapp3.0\knghtGame.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\obj\Debug\netcoreapp3.0\knghtGame.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\obj\Debug\netcoreapp3.0\knghtGame.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\obj\Debug\netcoreapp3.0\knghtGame.dll
+C:\Users\Martin Mitkov\source\repos\knghtGame\knghtGame\obj\Debug\netcoreapp3.0\knghtGame.pdb

@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.exe
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.deps.json
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.dll
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\bin\Debug\netcoreapp3.0\JaggedArrayManipulator1.pdb
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\obj\Debug\netcoreapp3.0\JaggedArrayManipulator1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\obj\Debug\netcoreapp3.0\JaggedArrayManipulator1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\obj\Debug\netcoreapp3.0\JaggedArrayManipulator1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\obj\Debug\netcoreapp3.0\JaggedArrayManipulator1.dll
+C:\Users\Martin Mitkov\source\repos\JaggedArrayManipulator1\JaggedArrayManipulator1\obj\Debug\netcoreapp3.0\JaggedArrayManipulator1.pdb
