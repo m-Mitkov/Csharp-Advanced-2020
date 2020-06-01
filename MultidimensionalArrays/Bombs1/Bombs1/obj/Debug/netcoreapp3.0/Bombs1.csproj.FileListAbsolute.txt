@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.exe
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.deps.json
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.dll
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\bin\Debug\netcoreapp3.0\Bombs1.pdb
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\obj\Debug\netcoreapp3.0\Bombs1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\obj\Debug\netcoreapp3.0\Bombs1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\obj\Debug\netcoreapp3.0\Bombs1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\obj\Debug\netcoreapp3.0\Bombs1.dll
+C:\Users\Martin Mitkov\source\repos\Bombs1\Bombs1\obj\Debug\netcoreapp3.0\Bombs1.pdb
