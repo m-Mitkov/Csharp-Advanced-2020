@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.exe
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.deps.json
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.pdb
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\Martin Mitkov\source\repos\RadioactiveMutantVampireBunnies\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.0\RadioactiveMutantVampireBunnies.pdb

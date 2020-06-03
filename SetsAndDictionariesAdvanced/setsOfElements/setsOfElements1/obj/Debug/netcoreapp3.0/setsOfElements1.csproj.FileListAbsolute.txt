@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.exe
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.deps.json
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.dll
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\bin\Debug\netcoreapp3.0\setsOfElements1.pdb
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\obj\Debug\netcoreapp3.0\setsOfElements1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\obj\Debug\netcoreapp3.0\setsOfElements1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\obj\Debug\netcoreapp3.0\setsOfElements1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\obj\Debug\netcoreapp3.0\setsOfElements1.dll
+C:\Users\Martin Mitkov\source\repos\setsOfElements1\setsOfElements1\obj\Debug\netcoreapp3.0\setsOfElements1.pdb
