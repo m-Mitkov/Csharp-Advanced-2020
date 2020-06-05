@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\obj\Debug\netcoreapp3.0\LineNumbers1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\obj\Debug\netcoreapp3.0\LineNumbers1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\obj\Debug\netcoreapp3.0\LineNumbers1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.exe
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.deps.json
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.dll
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\bin\Debug\netcoreapp3.0\LineNumbers1.pdb
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\obj\Debug\netcoreapp3.0\LineNumbers1.dll
+C:\Users\Martin Mitkov\source\repos\LineNumbers1\LineNumbers1\obj\Debug\netcoreapp3.0\LineNumbers1.pdb

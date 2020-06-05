@@ -1,0 +1,12 @@
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.exe
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\Program.cs
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.deps.json
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.dll
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\bin\Debug\netcoreapp3.0\wordCount1.pdb
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\obj\Debug\netcoreapp3.0\wordCount1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\obj\Debug\netcoreapp3.0\wordCount1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\obj\Debug\netcoreapp3.0\wordCount1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\obj\Debug\netcoreapp3.0\wordCount1.dll
+C:\Users\Martin Mitkov\source\repos\wordCount1\wordCount1\obj\Debug\netcoreapp3.0\wordCount1.pdb

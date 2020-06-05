@@ -1,0 +1,12 @@
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.exe
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\Program.cs
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.deps.json
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.dll
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\bin\Debug\netcoreapp3.0\EvenLines.pdb
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\obj\Debug\netcoreapp3.0\EvenLines.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\obj\Debug\netcoreapp3.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\obj\Debug\netcoreapp3.0\EvenLines.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\obj\Debug\netcoreapp3.0\EvenLines.dll
+C:\Users\Martin Mitkov\source\repos\EvenLines\EvenLines\obj\Debug\netcoreapp3.0\EvenLines.pdb

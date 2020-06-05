@@ -1,0 +1,12 @@
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.exe
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\Program.cs
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.deps.json
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.dll
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\bin\Debug\netcoreapp3.0\copyBinaryFile.pdb
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\obj\Debug\netcoreapp3.0\copyBinaryFile.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\obj\Debug\netcoreapp3.0\copyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\obj\Debug\netcoreapp3.0\copyBinaryFile.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\obj\Debug\netcoreapp3.0\copyBinaryFile.dll
+C:\Users\Martin Mitkov\source\repos\copyBinaryFile\copyBinaryFile\obj\Debug\netcoreapp3.0\copyBinaryFile.pdb
