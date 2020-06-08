@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.exe
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.deps.json
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.dll
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\bin\Debug\netcoreapp3.0\ActionT.pdb
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\obj\Debug\netcoreapp3.0\ActionT.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\obj\Debug\netcoreapp3.0\ActionT.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\obj\Debug\netcoreapp3.0\ActionT.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\obj\Debug\netcoreapp3.0\ActionT.dll
+C:\Users\Martin Mitkov\source\repos\ActionT\ActionT\obj\Debug\netcoreapp3.0\ActionT.pdb

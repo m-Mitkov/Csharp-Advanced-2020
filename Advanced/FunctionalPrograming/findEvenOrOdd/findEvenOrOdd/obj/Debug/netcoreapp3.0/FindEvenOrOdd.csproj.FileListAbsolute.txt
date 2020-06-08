@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.exe
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.deps.json
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.dll
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\bin\Debug\netcoreapp3.0\FindEvenOrOdd.pdb
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\obj\Debug\netcoreapp3.0\FindEvenOrOdd.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\obj\Debug\netcoreapp3.0\FindEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\obj\Debug\netcoreapp3.0\FindEvenOrOdd.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\obj\Debug\netcoreapp3.0\FindEvenOrOdd.dll
+C:\Users\Martin Mitkov\source\repos\FindEvenOrOdd\FindEvenOrOdd\obj\Debug\netcoreapp3.0\FindEvenOrOdd.pdb

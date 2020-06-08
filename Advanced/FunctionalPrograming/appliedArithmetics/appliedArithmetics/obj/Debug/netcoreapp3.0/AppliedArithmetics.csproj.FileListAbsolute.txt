@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.exe
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.deps.json
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.dll
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\bin\Debug\netcoreapp3.0\AppliedArithmetics.pdb
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\obj\Debug\netcoreapp3.0\AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\obj\Debug\netcoreapp3.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\obj\Debug\netcoreapp3.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\obj\Debug\netcoreapp3.0\AppliedArithmetics.dll
+C:\Users\Martin Mitkov\source\repos\AppliedArithmetics\AppliedArithmetics\obj\Debug\netcoreapp3.0\AppliedArithmetics.pdb
