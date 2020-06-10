@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.exe
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.deps.json
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.dll
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\bin\Debug\netcoreapp3.0\dateModifier.pdb
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\obj\Debug\netcoreapp3.0\dateModifier.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\obj\Debug\netcoreapp3.0\dateModifier.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\obj\Debug\netcoreapp3.0\dateModifier.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\obj\Debug\netcoreapp3.0\dateModifier.dll
+C:\Users\Martin Mitkov\source\repos\dateModifier\dateModifier\obj\Debug\netcoreapp3.0\dateModifier.pdb

@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.exe
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.deps.json
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.dll
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\bin\Debug\netcoreapp3.0\defineAClassPerson.pdb
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\obj\Debug\netcoreapp3.0\defineAClassPerson.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\obj\Debug\netcoreapp3.0\defineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\obj\Debug\netcoreapp3.0\defineAClassPerson.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\obj\Debug\netcoreapp3.0\defineAClassPerson.dll
+C:\Users\Martin Mitkov\source\repos\defineAClassPerson\defineAClassPerson\obj\Debug\netcoreapp3.0\defineAClassPerson.pdb

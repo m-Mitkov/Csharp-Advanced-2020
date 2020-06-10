@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.exe
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.deps.json
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.dll
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\bin\Debug\netcoreapp3.0\opinionPoll.pdb
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\obj\Debug\netcoreapp3.0\opinionPoll.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\obj\Debug\netcoreapp3.0\opinionPoll.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\obj\Debug\netcoreapp3.0\opinionPoll.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\obj\Debug\netcoreapp3.0\opinionPoll.dll
+C:\Users\Martin Mitkov\source\repos\opinionPoll\opinionPoll\obj\Debug\netcoreapp3.0\opinionPoll.pdb

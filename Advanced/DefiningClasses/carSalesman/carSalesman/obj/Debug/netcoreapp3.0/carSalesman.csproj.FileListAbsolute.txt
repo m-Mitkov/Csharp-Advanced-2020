@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\obj\Debug\netcoreapp3.0\carSalesman.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\obj\Debug\netcoreapp3.0\carSalesman.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\obj\Debug\netcoreapp3.0\carSalesman.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.exe
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.deps.json
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.dll
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\bin\Debug\netcoreapp3.0\carSalesman.pdb
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\obj\Debug\netcoreapp3.0\carSalesman.dll
+C:\Users\Martin Mitkov\source\repos\carSalesman\carSalesman\obj\Debug\netcoreapp3.0\carSalesman.pdb

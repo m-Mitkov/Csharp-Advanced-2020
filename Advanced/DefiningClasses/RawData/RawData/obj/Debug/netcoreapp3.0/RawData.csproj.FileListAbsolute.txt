@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.exe
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.deps.json
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.dll
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\bin\Debug\netcoreapp3.0\RawData.pdb
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\obj\Debug\netcoreapp3.0\RawData.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\obj\Debug\netcoreapp3.0\RawData.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\obj\Debug\netcoreapp3.0\RawData.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\obj\Debug\netcoreapp3.0\RawData.dll
+C:\Users\Martin Mitkov\source\repos\RawData\RawData\obj\Debug\netcoreapp3.0\RawData.pdb
