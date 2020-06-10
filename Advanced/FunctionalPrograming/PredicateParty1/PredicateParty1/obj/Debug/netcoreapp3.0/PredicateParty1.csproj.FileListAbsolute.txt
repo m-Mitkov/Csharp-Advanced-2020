@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.exe
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.deps.json
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.dll
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\bin\Debug\netcoreapp3.0\PredicateParty1.pdb
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\obj\Debug\netcoreapp3.0\PredicateParty1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\obj\Debug\netcoreapp3.0\PredicateParty1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\obj\Debug\netcoreapp3.0\PredicateParty1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\obj\Debug\netcoreapp3.0\PredicateParty1.dll
+C:\Users\Martin Mitkov\source\repos\PredicateParty1\PredicateParty1\obj\Debug\netcoreapp3.0\PredicateParty1.pdb

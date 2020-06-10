@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.exe
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.deps.json
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.dll
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.pdb
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.dll
+C:\Users\Martin Mitkov\source\repos\ListOfPredicates\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.pdb

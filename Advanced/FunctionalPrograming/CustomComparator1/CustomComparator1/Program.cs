@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CustomComparator1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Func<int, int, int> filter = (x, y) =>
+            (x % 2 == 0 && y % 2 != 0) ? -1 :
+            (x % 2 != 0 && y % 2 == 0) ? 1 :
+            x.CompareTo(y);
+
+           var sortedList = new List<int>();
+
+            var inputNumbers = Console.ReadLine()
+                .Split(" ")
+                .Select(int.Parse)
+                .ToArray();
+
+            Array.Sort(inputNumbers, new Comparison<int>(filter));
+
+            Console.WriteLine(string.Join(" ", inputNumbers));
+        }
+    }
+}
