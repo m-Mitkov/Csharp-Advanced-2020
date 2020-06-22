@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.exe
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.deps.json
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.pdb
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\Martin Mitkov\source\repos\BoxOfT\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.pdb

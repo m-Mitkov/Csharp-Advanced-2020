@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.exe
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.deps.json
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.dll
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\bin\Debug\netcoreapp3.0\GenericBox.pdb
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\obj\Debug\netcoreapp3.0\GenericBox.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\obj\Debug\netcoreapp3.0\GenericBox.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\obj\Debug\netcoreapp3.0\GenericBox.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\obj\Debug\netcoreapp3.0\GenericBox.dll
+C:\Users\Martin Mitkov\source\repos\GenericBox\GenericBox\obj\Debug\netcoreapp3.0\GenericBox.pdb

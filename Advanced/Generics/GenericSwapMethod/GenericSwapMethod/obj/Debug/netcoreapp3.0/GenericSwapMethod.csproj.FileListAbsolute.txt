@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.exe
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.deps.json
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.dll
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\bin\Debug\netcoreapp3.0\GenericSwapMethod.pdb
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\obj\Debug\netcoreapp3.0\GenericSwapMethod.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\obj\Debug\netcoreapp3.0\GenericSwapMethod.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\obj\Debug\netcoreapp3.0\GenericSwapMethod.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\obj\Debug\netcoreapp3.0\GenericSwapMethod.dll
+C:\Users\Martin Mitkov\source\repos\GenericSwapMethod\GenericSwapMethod\obj\Debug\netcoreapp3.0\GenericSwapMethod.pdb
