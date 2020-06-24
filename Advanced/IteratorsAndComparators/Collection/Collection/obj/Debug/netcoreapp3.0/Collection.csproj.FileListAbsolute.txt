@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.exe
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.deps.json
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.dll
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\bin\Debug\netcoreapp3.0\Collection.pdb
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\obj\Debug\netcoreapp3.0\Collection.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\obj\Debug\netcoreapp3.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\obj\Debug\netcoreapp3.0\Collection.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\obj\Debug\netcoreapp3.0\Collection.dll
+C:\Users\Martin Mitkov\source\repos\Collection\Collection\obj\Debug\netcoreapp3.0\Collection.pdb
