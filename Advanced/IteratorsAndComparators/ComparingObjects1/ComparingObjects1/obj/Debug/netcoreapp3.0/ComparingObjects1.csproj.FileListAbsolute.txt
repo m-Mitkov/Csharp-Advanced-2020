@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.exe
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.deps.json
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.dll
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\bin\Debug\netcoreapp3.0\ComparingObjects1.pdb
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\obj\Debug\netcoreapp3.0\ComparingObjects1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\obj\Debug\netcoreapp3.0\ComparingObjects1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\obj\Debug\netcoreapp3.0\ComparingObjects1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\obj\Debug\netcoreapp3.0\ComparingObjects1.dll
+C:\Users\Martin Mitkov\source\repos\ComparingObjects1\ComparingObjects1\obj\Debug\netcoreapp3.0\ComparingObjects1.pdb
