@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.exe
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.deps.json
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.dll
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.0\Zoo.pdb
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.0\Zoo.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.0\Zoo.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.0\Zoo.dll
+C:\Users\Martin Mitkov\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.0\Zoo.pdb

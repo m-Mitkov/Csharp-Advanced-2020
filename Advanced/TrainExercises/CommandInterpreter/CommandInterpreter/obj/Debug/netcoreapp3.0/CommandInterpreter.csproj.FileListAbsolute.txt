@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.exe
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.deps.json
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.dll
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\bin\Debug\netcoreapp3.0\CommandInterpreter.pdb
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\obj\Debug\netcoreapp3.0\CommandInterpreter.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\obj\Debug\netcoreapp3.0\CommandInterpreter.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\obj\Debug\netcoreapp3.0\CommandInterpreter.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\obj\Debug\netcoreapp3.0\CommandInterpreter.dll
+C:\Users\Martin Mitkov\source\repos\CommandInterpreter\CommandInterpreter\obj\Debug\netcoreapp3.0\CommandInterpreter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.exe
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.deps.json
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.dll
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\bin\Debug\netcoreapp3.0\Miner1.pdb
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\obj\Debug\netcoreapp3.0\Miner1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\obj\Debug\netcoreapp3.0\Miner1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\obj\Debug\netcoreapp3.0\Miner1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\obj\Debug\netcoreapp3.0\Miner1.dll
+C:\Users\Martin Mitkov\source\repos\Miner1\Miner1\obj\Debug\netcoreapp3.0\Miner1.pdb
