@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.exe
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.deps.json
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.dll
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.pdb
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.dll
+C:\Users\Martin Mitkov\source\repos\ClassBoxData\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.pdb
