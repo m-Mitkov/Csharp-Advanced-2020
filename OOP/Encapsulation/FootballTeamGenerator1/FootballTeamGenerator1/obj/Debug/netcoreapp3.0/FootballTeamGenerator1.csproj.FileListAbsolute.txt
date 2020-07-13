@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.exe
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.deps.json
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.dll
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\bin\Debug\netcoreapp3.0\FootballTeamGenerator1.pdb
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\obj\Debug\netcoreapp3.0\FootballTeamGenerator1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\obj\Debug\netcoreapp3.0\FootballTeamGenerator1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\obj\Debug\netcoreapp3.0\FootballTeamGenerator1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\obj\Debug\netcoreapp3.0\FootballTeamGenerator1.dll
+C:\Users\Martin Mitkov\source\repos\FootballTeamGenerator1\FootballTeamGenerator1\obj\Debug\netcoreapp3.0\FootballTeamGenerator1.pdb
