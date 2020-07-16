@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.exe
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.deps.json
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.dll
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.pdb
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.dll
+C:\Users\Martin Mitkov\source\repos\DefineAnInterfaceIPerson\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineAnInterfaceIPerson.pdb
