@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\Martin Mitkov\Desktop\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb

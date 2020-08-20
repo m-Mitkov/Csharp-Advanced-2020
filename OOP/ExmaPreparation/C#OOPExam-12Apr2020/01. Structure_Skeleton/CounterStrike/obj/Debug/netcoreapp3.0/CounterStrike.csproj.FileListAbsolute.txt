@@ -1,0 +1,13 @@
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Martin Mitkov\Desktop\C#OOPExam-12Apr2020\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
